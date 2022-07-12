@@ -34,4 +34,4 @@ if p1 == 'paper' and p2 == 'scissors':
 if p1 == 'paper' and p2 == 'rock':
     print('Player 1 won!')
 if p1 == 'paper' and p2 == 'paper':
-        print('Draw')
+    print('Draw')
